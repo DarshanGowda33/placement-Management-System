@@ -130,7 +130,8 @@ require_once("../db.php");
                         <label for="emailfield"><i class="fa fa-facebook" aria-hidden="true">Email</i></label>
                         <input type="text" id="emailField" placeholder=" Enter here" class=" form-control">
 
-                        </di <div class="form-group mt-2">
+                        </div>
+                         <div class="form-group mt-2">
 
                         <label for="fbfield"><i class="fa fa-facebook" aria-hidden="true">Facebook</i></label>
                         <input type="text" id="fbField" placeholder=" Enter here" class=" form-control">

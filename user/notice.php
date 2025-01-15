@@ -68,7 +68,7 @@ require_once("../db.php");
                                             <tr>
                                                 <th>Subject</th>
                                                 <th>Notice</th>
-                                                <th>Attachment</th>
+                                                <!-- <th>Attachment</th> -->
 
 
 
@@ -91,11 +91,7 @@ require_once("../db.php");
                                             ?>
                                                     <td><?php echo $row['subject']; ?></td>
                                                     <td><?php echo $row['notice']; ?></td>
-                                                    <?php if ($row['resume'] != '') { ?>
-                                                        <td><a href="../uploads/resume/<?php echo $row['resume']; ?>" download="<?php echo 'Notice'; ?>"><i class="fa fa-file"></i></a></td>
-                                                    <?php } else { ?>
-                                                        <td>No Resume Uploaded</td>
-                                                    <?php } ?>
+                                                    
 
                                                     <td><?php echo $row['date']; ?></td>
 
@@ -132,7 +128,7 @@ require_once("../db.php");
 
     <footer class="main-footer" style="margin-left: 0px;">
         <div class="text-center">
-            <strong>Copyright &copy; 2022 <a href="#">Placement Portal</a>.</strong> All rights
+            <strong>Copyright &copy; 2024 <a href="#">Placement Portal</a>.</strong> All rights
             reserved.
         </div>
     </footer>

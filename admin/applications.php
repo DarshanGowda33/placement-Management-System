@@ -16,9 +16,9 @@ require_once("../db.php");
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>Placement Portal</title>
-  <!-- Tell the browser to be responsive to screen width -->
+  
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-  <!-- Bootstrap 3.3.7 -->
+  
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
   <!-- Font Awesome -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -167,7 +167,7 @@ require_once("../db.php");
             </div>
             <div class="modal-body">
               <h3><b>Applied On</b></h3>
-              <p>24/04/2017</p>
+              <p>30/12/2024</p>
               <br>
               <h3><b>Email</b></h3>
               <p>test@test.com</p>
@@ -202,7 +202,7 @@ require_once("../db.php");
 
     <footer class="main-footer" style="margin-left: 0px;">
       <div class="text-center">
-        <strong>Copyright &copy; 2022 <a href="learningfromscratch.online">Placement Portal</a>.</strong> All rights
+        <strong>Copyright &copy; 2024 <a href="learningfromscratch.online">Placement Portal</a>.</strong> All rights
         reserved.
       </div>
     </footer>

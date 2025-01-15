@@ -1,4 +1,4 @@
-# Inhouse Competition - JIIT Optica Student Chapter
+# Inhouse Competition - BMSIT Optica Student Chapter
 ## Topic-College Realted
 
 ## Team-code stomp

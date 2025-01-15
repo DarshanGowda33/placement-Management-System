@@ -137,7 +137,7 @@ require_once("../db.php");
                     <div class="info-box-content">
                       <span class="info-box-text">Pending Students Confirmation</span>
                       <?php
-                      $sql = "SELECT * FROM users WHERE active='0'";
+                      $sql = "SELECT * FROM users WHERE active='2'";
                       $result = $conn->query($sql);
                       if ($result->num_rows > 0) {
                         $totalno = $result->num_rows;
@@ -199,7 +199,7 @@ require_once("../db.php");
 
     <footer class="main-footer" style="margin-left: 0px;">
       <div class="text-center">
-        <strong>Copyright &copy; 2022 <a href="learningfromscratch.online">Placement Portal</a>.</strong> All rights
+        <strong>Copyright &copy; 2024 <a href="learningfromscratch.online">Placement Portal</a>.</strong> All rights
         reserved.
       </div>
     </footer>

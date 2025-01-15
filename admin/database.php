@@ -200,9 +200,7 @@ require_once("../db.php");
 
 
 
-                    <!-- Yah unplaced ki list aaeygi + eligiblity k hisab se ek filter bhi aaeyga + result k liye kuch karna hai +
-                    mail wali chij dalni hai -->
-
+                    
 
 
 
@@ -225,7 +223,7 @@ require_once("../db.php");
   width: 100%;
   height: 50px; position:absolute; background-color:#1f0a0a; color:white">
         <div class="text-center">
-            <strong>Copyright &copy; 2022 Placement Portal</strong> All rights
+            <strong>Copyright &copy; 2024 Placement Portal</strong> All rights
             reserved.
         </div>
     </footer>

@@ -15,8 +15,7 @@
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap" rel="stylesheet">
-
+    <link href="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d4620.605450848748!2d77.56855095257251!3d13.133955304304072!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1735800202347!5m2!1sen!2sin" rel="stylesheet">
     <!-- Vendor CSS Files -->
     <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
@@ -60,13 +59,15 @@
 
             <div class="section-header">
                 <h2><strong>Contact Us</strong></h2>
-                <p>JIIT NOIDA</p>
+                <p>BMSIT BENGALURU</p>
             </div>
 
         </div>
 
         <div class="map">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17786.14796216234!2d77.36912155731619!3d28.62549268679601!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce551491b3ce7%3A0x7335d9fcfd4d9db0!2sJAYPEE%20INSTITUTE%20OF%20INFORMATION%20TECHNOLOGY!5e0!3m2!1sen!2sin!4v1673264938777!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d4620.605450848748!2d77.56855095257251!3d13.133955304304072!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1735800202347!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+        <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17786.14796216234!2d77.36912155731619!3d28.62549268679601!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce551491b3ce7%3A0x7335d9fcfd4d9db0!2sJAYPEE%20INSTITUTE%20OF%20INFORMATION%20TECHNOLOGY!5e0!3m2!1sen!2sin!4v1673264938777!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
         </div><!-- End Google Maps -->
 
         <div class="container">
@@ -77,13 +78,13 @@
 
                     <div class="info">
                         <h3>Get in touch</h3>
-                        <p>PlACEMENT CELL</p>
+                        <p>PLACEMENT CELL</p>
 
                         <div class="info-item d-flex">
                             <i class="bi bi-geo-alt flex-shrink-0"></i>
                             <div>
                                 <h4>Location:</h4>
-                                <p>Jaypee Institute of Information Technology, A 10, A Block, Block A, Industrial Area, Sector 62, Noida, Uttar Pradesh 201309.</p>
+                                <p>BMS Institute of Technology, Avalahalli, Yelahanka, bengaluru-560064.</p>
                             </div>
                         </div><!-- End Info Item -->
 
@@ -91,7 +92,7 @@
                             <i class="bi bi-envelope flex-shrink-0"></i>
                             <div>
                                 <h4>Email:</h4>
-                                <p>codestomp@gmail.com</p>
+                                <p>adminbmsit@bmsit.in</p>
                             </div>
                         </div><!-- End Info Item -->
 
@@ -99,7 +100,7 @@
                             <i class="bi bi-phone flex-shrink-0"></i>
                             <div>
                                 <h4>Call:</h4>
-                                <p>9821023521</p>
+                                <p>9087654321</p>
                             </div>
                         </div><!-- End Info Item -->
 
